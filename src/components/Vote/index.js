@@ -1,0 +1,1 @@
+export * as Vote from './Vote.tsx';
